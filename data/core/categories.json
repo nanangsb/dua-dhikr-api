@@ -17,12 +17,12 @@
       "slug": "selected-dua"
     },
     {
-      "name": "Dzikir Setelah Shalat",
-      "slug": "dhikr-after-salah"
-    },
-    {
       "name": "Haji Umroh",
       "slug": "haji-umroh"
+    },
+    {
+      "name": "Dzikir Setelah Shalat",
+      "slug": "dhikr-after-salah"
     }
   ],
   "en": [
@@ -43,12 +43,12 @@
       "slug": "selected-dua"
     },
     {
-      "name": "Dhikr After Salah",
-      "slug": "dhikr-after-salah"
-    },
-    {
       "name": "Haji Umroh",
       "slug": "haji-umroh"
+    },
+    {
+      "name": "Dhikr After Salah",
+      "slug": "dhikr-after-salah"
     }
   ]
 }
