@@ -23,6 +23,14 @@
     {
       "name": "Haji Umroh",
       "slug": "haji-umroh"
+    },
+    {
+      "name": "Tidur",
+      "slug": "tidur"
+    },
+    {
+      "name": "Ramadhan",
+      "slug": "ramadhan"
     }
   ],
   "en": [
@@ -49,6 +57,14 @@
     {
       "name": "Haji Umroh",
       "slug": "haji-umroh"
+    },
+    {
+      "name": "Tidur",
+      "slug": "tidur"
+    },
+    {
+      "name": "Ramadhan",
+      "slug": "ramadhan"
     }
   ]
 }
