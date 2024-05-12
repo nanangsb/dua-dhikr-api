@@ -17,6 +17,18 @@
       "slug": "selected-dua"
     },
     {
+      "name": "Masjid",
+      "slug": "masjid"
+    },
+    {
+      "name": "Wudhu",
+      "slug": "wudhu"
+    },
+    {
+      "name": "Sholat",
+      "slug": "sholat"
+    },
+    {
       "name": "Dzikir Setelah Shalat",
       "slug": "dhikr-after-salah"
     },
@@ -49,6 +61,18 @@
     {
       "name": "Selected Dua",
       "slug": "selected-dua"
+    },
+    {
+      "name": "Masjid",
+      "slug": "masjid"
+    },
+    {
+      "name": "Wudhu",
+      "slug": "wudhu"
+    },
+    {
+      "name": "Sholat",
+      "slug": "sholat"
     },
     {
       "name": "Dhikr After Salah",
