@@ -19,6 +19,10 @@
     {
       "name": "Dzikir Setelah Shalat",
       "slug": "dhikr-after-salah"
+    },
+{
+      "name": "Dzikir Setelah Shalat",
+      "slug": "haji-umroh"
     }
   ],
   "en": [
@@ -41,6 +45,10 @@
     {
       "name": "Dhikr After Salah",
       "slug": "dhikr-after-salah"
+    },
+{
+      "name": "Dzikir Setelah Shalat",
+      "slug": "haji-umroh"
     }
   ]
 }
