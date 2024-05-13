@@ -4,7 +4,7 @@
     "arabic": "بِسْمِ اللَّهِ وَالسَّلاَمُ عَلَى رَسُولِ اللَّهِ اللَّهُمَّ اغْفِرْ لِى ذُنُوبِى وَافْتَحْ لِى أَبْوَابَ رَحْمَتِكَ",
     "latin": "bismillah wassalaamu ‘ala rosulillah. allohummaghfir lii dzunuubi waftahlii abwaaba rohmatik",
     "translation": "Dengan menyebut nama Allah dan salam atas Rasulullah. Ya Allah, ampunilah dosa-dosaku dan bukakanlah kepadaku pintu rahmat-Mu.",
-    "notes": null,
+    "notes": "Masuk dengan mendahulukan kaki kanan",
     "fawaid": "Masjid adalah rumah Allah, hendaknya seorang hamba mengagungkannya dan berharap rahmat Allah di dalamnya.",
     "source": "HR. Ibnu Majah, no. 771 dan Tirmidzi, no. 314. Syaikh Al-Albani mengatakan bahwa hadits ini shahih"
   },
@@ -13,16 +13,25 @@
     "arabic": "اَللَّهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ",
     "latin": "allahummaftah lii abwaaba rahmatika",
     "translation": "Ya Allah, bukalah pintu-pintu rahmat-Mu untukku.",
-    "notes": null,
+    "notes":  "Masuk dengan mendahulukan kaki kanan",
     "fawaid": "Masjid adalah rumah Allah, hendaknya seorang hamba mengagungkannya dan berharap rahmat Allah di dalamnya.",
     "source": "HR. Muslim No. 713"
   },
   {
-    "title": "Doa Keluar Masjid",
+    "title": "Doa Keluar Masjid #1",
+    "arabic": "بِسْمِ اللَّهِ وَالسَّلاَمُ عَلَى رَسُولِ اللَّهِ اللَّهُمَّ اغْفِرْ لِى ذُنُوبِى وَافْتَحْ لِى أَبْوَابَ فَضْلِكَ",
+    "latin": "bismillah wassalaamu ‘ala rosulillah. allohummaghfir lii dzunuubi waftahlii abwabaa fadhlik",
+    "translation": "Dengan menyebut nama Allah dan salam atas Rasulullah. Ya Allah, ampunilah dosa-dosaku dan bukakanlah padaku pintu karunia-Mu.",
+    "notes":  "Keluar dengan mendahulukan kaki kiri",
+    "fawaid": "Bumi Allah sangatlah luas, ada banyak jalan mencari rezeki. Hendalkah seorang hamba meminta karunia kepada Allah agar dimudahkan untuk mendapat rezeki yang telah Allah bagikan kepada seluruh hamba-Nya.",
+    "source": "HR. Ibnu Majah, no. 771 dan Tirmidzi, no. 314. Syaikh Al-Albani mengatakan bahwa hadits ini shahih"
+  },
+  {
+    "title": "Doa Keluar Masjid #2",
     "arabic": "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ",
     "latin": "allahumma innii as'aluka min fadhlika",
     "translation": "Ya Allah, sesungguhnya aku memohon karunia-Mu.",
-    "notes": null,
+    "notes": "Keluar dengan mendahulukan kaki kiri",
     "fawaid": "Bumi Allah sangatlah luas, ada banyak jalan mencari rezeki. Hendalkah seorang hamba meminta karunia kepada Allah agar dimudahkan untuk mendapat rezeki yang telah Allah bagikan kepada seluruh hamba-Nya.",
     "source": "HR. Muslim No. 713"
   }
