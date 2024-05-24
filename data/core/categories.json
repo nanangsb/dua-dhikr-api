@@ -13,6 +13,10 @@
       "slug": "daily-dua"
     },
     {
+      "name": "Doa Sepanjang Waktu",
+      "slug": "everytime"
+    },
+    {
       "name": "Doa Pilihan",
       "slug": "selected-dua"
     },
@@ -43,6 +47,10 @@
     {
       "name": "Ramadhan",
       "slug": "ramadhan"
+    },
+    {
+      "name": "Doa Karena Sebab",
+      "slug": "sebab"
     }
   ],
   "en": [
@@ -57,6 +65,10 @@
     {
       "name": "Daily Dua",
       "slug": "daily-dua"
+    },
+    {
+      "name": "Everytime Dua",
+      "slug": "everytime"
     },
     {
       "name": "Selected Dua",
@@ -89,6 +101,10 @@
     {
       "name": "Ramadhan",
       "slug": "ramadhan"
+    },
+    {
+      "name": "Prayer For A Reason",
+      "slug": "sebab"
     }
   ]
 }
